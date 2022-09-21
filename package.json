@@ -1,0 +1,17 @@
+{
+  "name": "rtg-design",
+  "version": "0.0.0",
+  "description": "Core design system for my personal digital properties.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryantoddgarza/rtg-design.git"
+  },
+  "author": "Ryan Todd Garza <ryantoddgarza@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryantoddgarza/rtg-design/issues"
+  },
+  "homepage": "https://github.com/ryantoddgarza/rtg-design#readme",
+  "scripts": {
+  }
+}
