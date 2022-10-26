@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/ryantoddgarza/rtg-design/issues"
   },
-  "homepage": "https://github.com/ryantoddgarza/rtg-design#readme"
+  "homepage": "https://github.com/ryantoddgarza/rtg-design#readme",
+  "scripts": {
+    "format": ". ./scripts/format.sh",
+    "lint": ". ./scripts/lint.sh",
+    "prettier": ". ./scripts/prettier.sh",
+    "prettier:fix": ". ./scripts/prettier-fix.sh"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }
