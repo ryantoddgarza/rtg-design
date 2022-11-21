@@ -1,5 +1,3 @@
-spacing-base: 8px
-
 font-stack:
   helvetica:
     - Helvetica Neue
@@ -24,3 +22,5 @@ font-stack:
     - sans-serif
     - Apple Color Emoji
     - Segoe UI Emoji
+
+spacing-base: 8px
